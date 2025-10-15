@@ -3,3 +3,4 @@ scikit-learn
 joblib
 nltk
 flask
+pytest(Only to test the authenticity of dataset and imports)
