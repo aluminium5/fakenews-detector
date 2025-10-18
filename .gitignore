@@ -1,0 +1,11 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtualenv
+fakenews-backend/venv/
+
+# Model artifacts (optional)
+# If you prefer to host models externally, uncomment the next line
+# fakenews-backend/model.pkl
